@@ -28,4 +28,4 @@ Base UI design implementing simple, clean and easy to understand approach to use
 ### Custom UI
 - Custom bottom navigation view with animations
 - Custom loading placeholder with animation
-- Custom RecyclerView grid for photo gallery (ispired by Pinterest)
+- Custom RecyclerView grid for photo gallery (inspired by Pinterest)
